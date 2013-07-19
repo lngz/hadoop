@@ -1,0 +1,1 @@
+/hadoop-1.2.0/bin/hadoop jar /hadoop-1.2.0/contrib/streaming/hadoop-streaming-1.2.0.jar -file wordcount.py -mapper wordcount.py -file ./reduce.py -reducer ./reduce.py -input /test/stream -output /output1
