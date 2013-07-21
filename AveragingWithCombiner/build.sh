@@ -1,0 +1,1 @@
+javac AveragingWithCombiner.java -cp /hadoop-2.0.5-alpha/share/hadoop/common/hadoop-common-2.0.5-alpha.jar:/hadoop-2.0.5-alpha/share/hadoop/mapreduce/hadoop-mapreduce-client-common-2.0.5-alpha.jar:/hadoop-2.0.5-alpha/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.0.5-alpha.jar:/hadoop-2.0.5-alpha/share/hadoop/mapreduce/hadoop-mapreduce-client-app-2.0.5-alpha.jar
