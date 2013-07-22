@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: bo.chen
+Build-Jdk: 1.6.0_24
+Main-Class: etu.splunk.hbase.H4Splunk
+Class-Path: conf/ lib/hbase-0.90.4-cdh3u3.jar lib/commons-lang-2.5.jar lib/log4j-1.2.16.jar lib/zookeeper-3.3.4-cdh3u3.jar lib/slf4j-log4j12-1.5.8.jar lib/commons-logging-1.1.1.jar lib/commons-el-1.0.jar lib/hadoop-core-0.20.2-cdh3u3.jar lib/jackson-mapper-asl-1.9.5.jar lib/jackson-core-asl-1.9.5.jar

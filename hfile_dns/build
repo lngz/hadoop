@@ -1,0 +1,5 @@
+[root@master hfile_dns]# export HADOOP_CLASSPATH=`/hbase-0.94.0/bin/hbase classpath`
+[root@master hfile_dns]# export CLASSPATH=$HADOOP_CLASSPATH
+[root@master hfile_dns]# javac -d bulk bulk_01.java 
+[root@master hfile_dns]# jar -cvf bulk.jar -C bulk/ .
+
